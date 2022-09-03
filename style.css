@@ -1,0 +1,40 @@
+body{
+    background-color: cadetblue;
+}
+.chance-try{
+    text-align: center;
+}
+
+.guess-word{
+    text-align: center;
+}
+#yourword{
+    padding: 8px 16px;
+    border:none;
+    outline: none;
+    border-bottom: 1px solid red;
+    font-size:1.2rem;
+    background-color: transparent;
+    color: #ffff;
+}
+#check{
+    padding:10px 16px ;
+    outline: none;
+    background-color: blue;
+    border:none;
+    cursor: pointer;
+}
+#computer-word{
+    letter-spacing: 8px;
+    font-size:2rem;
+    text-transform: uppercase;
+    
+}
+.heading{
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
+#computer-word{
+    text-align: center;
+}
